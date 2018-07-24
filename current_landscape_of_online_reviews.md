@@ -3,6 +3,10 @@ _Author: Schubert H. Laforest_
 
 ## The Situation
 
+> 82% of adults consult online reviews before buying something for the first time, 40% always do [1]
+
+>  A one-star increase in Yelp rating leads to a 5-9 percent increase in revenue [7]
+
 ## The Breakdown
 
 ## What does this mean?
@@ -11,7 +15,7 @@ _Author: Schubert H. Laforest_
 
 
 
-# Sources
+### Sources
 [Navigating by the Stars: Investigating the Actual and Perceived Validity of Online User Ratings](https://www.colorado.edu/business/sites/default/files/attached-files/jcr_2016_de_langhe_fernbach_lichtenstein_0.pdf)
 
 [What we know and Don't Kow About Online Word-Of-Mouth: A Systematic Review and Synthesus of the Literature](268002121029092115114026104120098072036003073064003042025005116081029126095113006076041124028101103055098076030120122119127090051045002046054000109089025109029117127088020020066064104074027083098103109070109079100124004124001029099106083100068111124029)
