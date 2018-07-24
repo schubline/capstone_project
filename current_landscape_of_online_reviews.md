@@ -7,6 +7,31 @@ _Author: Schubert H. Laforest_
 
 >  A one-star increase in Yelp rating leads to a 5-9 percent increase in revenue [7]
 
+
+Questions: Do user generate reviews actually reflect "quality"?
+
+In general marketing contexts, when we see an ad, we have our "guard" up - we know we're being sold to, hence making it more difficult for us to be persuaded. However, when we get feedback from ordinary people without a profit motive, the opinion seems more "genuine", and our guard goes down. This reality is one of the main reasons why online reviews can be so powerful. That being said, do reviews actually aid consumers in making better purchasing decisions?
+
+[1]: FERNBACH et all did a study where they analyzed 1272 products across 120 vertically differentiated product categories, comparing and contrasting their Amazon Reviews and their Consumer Report Scores. Here were the main takeaways:
+- They observed a lack convergence with Consumer Reports scores,
+the most commonly used measure of objective quality in the consumer behavior
+literature
+- The Amazon review scores were often based on insufficient sample sizes which limits their informativeness
+- The ratings do not predict resale prices in the used-product marketplace. One would expect a product with a 5 star rating to have a higher resale value than a product with 4 star rating. There was virtually no statistically significant relationship.
+- The higher for more expensive products and premium brands, controlling for
+Consumer Reports scores.
+- When forming quality inferences and purchase intentions, consumers heavily weight the average rating compared to other cues for quality like price and the number of ratings
+- Consumers fail to moderate their reliance on the average user rating as a function of sample size sufficiency
+- Consumers’ trust in the average user rating as a cue for objective quality appears to be based on an “illusion of validity.”
+
+> There is a low correspondence (~57% of the time) between Amazon stars and Consumer Reports ratings.
+
+Other Takeaways:
+- Online reviews are subject to many biases:
+  1) a more expensive product/service is viewed as being of better quality.
+  2) Reviewers are more likely to rate products with better display pictures and brand recognition more positively
+  3) "Show-off Bias"
+
 ## The Breakdown
 
 ## What does this mean?
