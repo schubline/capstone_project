@@ -19,8 +19,6 @@ literature
 - When forming quality inferences and purchase intentions, consumers heavily weight the average rating compared to other cues for quality like price and the number of ratings
 - Consumers fail to moderate their reliance on the average user rating as a function of sample size sufficiency
 
-$$ smaller number of reviewers = less reliable opinion $$
-
 - Consumers’ trust in the average user rating as a cue for objective quality appears to be based on an “illusion of validity.”
 
 > There is a low correspondence (~57% of the time) between Amazon stars and Consumer Reports ratings.
@@ -48,6 +46,7 @@ Consequently, CRFA [4], makes it illegal to bury non-disparagement clauses in TO
 
 ## What does this all mean?
 - Extreme Reviewers are over-represented
+- Having a smaller number of reviewers => less reliable opinions
 - Effects of positive and negative reviews on businesses are very real
 - This is a complex problem with a lot of moving parts...
 
