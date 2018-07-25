@@ -1,14 +1,11 @@
 # Overview: Current Landscape of Online Reviews
 _Author: Schubert H. Laforest_
 
-## The Situation
+**Guiding Question: Do user generated reviews actually reflect "quality"?**
+
+## The Breakdown: Consumer Perspective
 
 > 82% of adults consult online reviews before buying something for the first time, 40% always do [1]
-
->  A one-star increase in Yelp rating leads to a 5-9 percent increase in revenue [7]
-
-
-Questions: Do user generate reviews actually reflect "quality"?
 
 In general marketing contexts, when we see an ad, we have our "guard" up - we know we're being sold to, hence making it more difficult for us to be persuaded. However, when we get feedback from ordinary people without a profit motive, the opinion seems more "genuine", and our guard goes down. This reality is one of the main reasons why online reviews can be so powerful. That being said, do reviews actually aid consumers in making better purchasing decisions?
 
@@ -18,10 +15,12 @@ the most commonly used measure of objective quality in the consumer behavior
 literature
 - The Amazon review scores were often based on insufficient sample sizes which limits their informativeness
 - The ratings do not predict resale prices in the used-product marketplace. One would expect a product with a 5 star rating to have a higher resale value than a product with 4 star rating. There was virtually no statistically significant relationship.
-- The higher for more expensive products and premium brands, controlling for
-Consumer Reports scores.
+- Amazon ratings were higher for more expensive products and premium brands, (controlling for Consumer Reports scores).
 - When forming quality inferences and purchase intentions, consumers heavily weight the average rating compared to other cues for quality like price and the number of ratings
 - Consumers fail to moderate their reliance on the average user rating as a function of sample size sufficiency
+
+$ smaller number of reviewers = less reliable opinion $
+
 - Consumers’ trust in the average user rating as a cue for objective quality appears to be based on an “illusion of validity.”
 
 > There is a low correspondence (~57% of the time) between Amazon stars and Consumer Reports ratings.
@@ -30,15 +29,29 @@ Other Takeaways:
 - Online reviews are subject to many biases:
   1) a more expensive product/service is viewed as being of better quality.
   2) Reviewers are more likely to rate products with better display pictures and brand recognition more positively
-  3) "Show-off Bias"
-
-## The Breakdown
-
-## What does this mean?
+  3) "Diva Bias": Reviewers with extreme opinions, being really positive or really negative, are more likely to leave a reviews. Also, some reviewers just want to show off and brag. (Wanna be influencers). Accurate, objective information just isn't necessarily their main goal.
 
 
+## The Breakdown : Business' Perspective
+A bad review can indisputedly hurt the bottom line
+
+ >  A one-star increase in Yelp rating leads to a 5-9 percent increase in revenue [7]
+
+Some business try to combat this by subjecting users to a non-disparagement clause. Basically, if a consumer wants to do business with an establishment, they have to agree not to talk negatively about them online.
+These can be problematic for several  reasons:
+1) Hidden deep in Terms of Service Agreements and not readily made available.
+2) Only targets negative reviews, information that can actually be helpful to other users, creating a "lopsided database"
+3) Unfair advantage for Business that have these clauses, since most of their reviews will be positive
+
+Consequently, CRFA [4], makes it illegal to bury non-disparagement clauses in TOS. They need to be clearly communicated to the customer. Protects honest negative reviews, not false negative reviews.
 
 
+## What does this all mean?
+- Extreme Reviewers are over-represented
+- Effects of positive and negative reviews on businesses are very real
+- This is a complex problem with a lot of moving parts...
+
+---
 
 ### Sources
 [Navigating by the Stars: Investigating the Actual and Perceived Validity of Online User Ratings](https://www.colorado.edu/business/sites/default/files/attached-files/jcr_2016_de_langhe_fernbach_lichtenstein_0.pdf)
@@ -55,3 +68,9 @@ Other Takeaways:
 [Doctored Reviews](https://doctoredreviews.com)
 
 [Reviews, Reputation, and Revenue: The Case of Yelp.com](https://www.hbs.edu/faculty/Publication%20Files/12-016_a7e4a5a2-03f9-490d-b093-8f951238dba2.pdf)
+
+[Why do Online Reviews have a J-Shaped Distribution](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2380298)
+
+[Write a negative online review and get sued? It can happen, but maybe not for long](https://www.washingtonpost.com/lifestyle/travel/write-a-negative-online-review-and-get-sued-it-can-happen-but-maybe-not-for-long/2016/01/14/518f0aa6-b49b-11e5-9388-466021d971de_story.html?noredirect=on&utm_term=.cdcfe3ce6ec3)
+
+[Incentives Can Reduce Bias in Online Reviews](http://ftp.iza.org/dp11367.pdf)
