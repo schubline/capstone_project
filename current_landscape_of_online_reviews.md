@@ -19,7 +19,7 @@ literature
 - When forming quality inferences and purchase intentions, consumers heavily weight the average rating compared to other cues for quality like price and the number of ratings
 - Consumers fail to moderate their reliance on the average user rating as a function of sample size sufficiency
 
-$ smaller number of reviewers = less reliable opinion $
+$$ smaller number of reviewers = less reliable opinion $$
 
 - Consumers’ trust in the average user rating as a cue for objective quality appears to be based on an “illusion of validity.”
 
